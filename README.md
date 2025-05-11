@@ -1,2 +1,4 @@
+### Pls reffer to the new updated repo https://github.com/YashKanani11/gym-management-app
+
 # Gym-management
 Hi viewers, Since i want to jump into the world of freelancing as Web-dev I asked chatGPT to be my client and have started building this project just like real world interaction would go. See progress file for details...
